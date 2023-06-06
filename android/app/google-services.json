@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156767151896",
+    "project_id": "golftour-aa",
+    "storage_bucket": "golftour-aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156767151896:android:842faa7a2b6907f360606d",
+        "android_client_info": {
+          "package_name": "com.example.golf_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156767151896-i4mvjn8ls0f0p5ct2pa3kc9tl5cijte9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHG0APspT3kS69mFPzHA336CltgXvj83M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156767151896-i4mvjn8ls0f0p5ct2pa3kc9tl5cijte9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
